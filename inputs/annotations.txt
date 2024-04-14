@@ -1,0 +1,5 @@
+1. 1.jpg: fracture
+2. 2.jpg: fracture
+3. effusion.jpg: chest
+4. fibrosis.jpg: MRI
+5. ct.jpg: ct
